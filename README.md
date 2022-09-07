@@ -6,7 +6,7 @@
 
 # Requirements
 
-
+The following is a list of non-function and functional requirements the product should meet. The requirement were made based on the functionality, size and price of he Polytuner.  
 
 Non-functional requirements:
 
@@ -21,7 +21,6 @@ Non-functional requirements:
 9. Should be able to work with standard jack-cables for guitar/bass
 10. Working hands-free
 11. Visually and quickly be able to see tuning accuracy
-
 
 
 

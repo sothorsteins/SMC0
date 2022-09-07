@@ -52,5 +52,47 @@ Functional requirements:
         - How advanced is it? 
         - How much processing power does it take?
     - c. Research other similar product / software 
+2. Plan the project 
+    - a. Create tasks to be done
+    - b. Create milestones / deadlines / time estimates on tasks 
+    - c. Put these tasks into Jira 
+3. Create low-fi prototype (maybe paper prototype)
+    - a. Make a design for the pedal and the interface
+    - b. Test the design 
+    - c. Focus group test
+4. Create “prototype” in software based on research for polyphonic spectral analysis (this can be in matlab), proof-of-concept. 
+    - a. Develop polyphonic detection algorithm based on research
+        - Do FFT
+        - Do filtering
+    - b. Test the effectiveness of the code / is it accurate enough
+        - Build automatic tests for development
+5. Port the code to a microchip (DSP-chip) e.g. c++ 
+    - a. Test different microchips for lowest latency 
+    - b. Optimize code if latency too high 
+    - c. Goal is for latency to be less than 0.5 s.
+6. Create user-interface (UX-designers) 
+    - a. Make initial design with Figma or other similar platform
+        - One-string mode design
+        - 6-string mode design
+    - b. Test on guitar players - are they able to understand the information
+    - c. Create and implement final design
+7. Create circuit / design of physical product
+    - a. Develop 3D model of product design based on low-fi prototype results
+    - b. Decide on materials for product (low-cost) and estimate production cost 
+    - c. Design circuit -board
+    - d. Make final design
+    - e. Evaluate, debug 
+8. Final evaluation 
+    - a. Evaluate if requirements are met or are close to being met
+    - b. Plan evaluation
+    - c. Define beta tester group
+    - d. Give product to selected beta testers
+    - e. Evaluate if all requirements have actually been met
+    - f. Fix bugs that beta testers encounter
+
+
+
+
+
 
 # Project plan / Gantt Chart

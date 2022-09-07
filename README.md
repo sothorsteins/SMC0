@@ -46,6 +46,8 @@ Functional requirements:
 
 # Tasks and milestones
 
+Based on the requirements for the product a list of tasks and milestones was made. 
+
 1. Research of state of the art - what have others done, what are their issues - learn from this
     - a. Research materials 
     - b. Research polyphonic pitch estimation

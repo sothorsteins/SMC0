@@ -6,6 +6,7 @@ The purpose of this project was to reverse-engineer a product related to subject
 The most interesting feature of the Polytune pedals from TC Electronic is their polyphonic pitch detection, which allows tuning of all strings of the guitar (or other electric string instrument) at once. This feature makes the tuning process a bit faster, and can especially be useful while tuning live on stage between songs.
 
 Link to product: https://www.tcelectronic.com/product.html?modelCode=P0CM0
+
 Link to product video presentation: https://www.youtube.com/watch?v=NUtpFd3377Y
 
 # Requirements

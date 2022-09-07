@@ -47,10 +47,10 @@ Functional requirements:
 # Tasks and milestones
 
 1. Research of state of the art - what have others done, what are their issues - learn from this
-    a. Research materials 
-    b. Research polyphonic pitch estimation
+    - a. Research materials 
+    - b. Research polyphonic pitch estimation
         - How advanced is it? 
         - How much processing power does it take?
-    c. Research other similar product / software 
+    - c. Research other similar product / software 
 
 # Project plan / Gantt Chart

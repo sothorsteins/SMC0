@@ -15,16 +15,16 @@ The following is a list of non-function and functional requirements the product 
 
 Non-functional requirements:
 
-1. Detect if one string playing or many strings - automatically switch between interfaces
-2. Very quick detection
+1. Detect if one string playing or several strings
+2. Quick polyphonic pitch detection
 3. Different interfaces
 4. Multiple instruments
 5. Affordable
 6. Small size
-7. Good accuracy
+7. Precise accuracy
 8. Keep the strength of the signal 
 9. Should be able to work with standard jack-cables for guitar/bass
-10. Working hands-free
+10. Work hands-free
 11. Visually and quickly be able to see tuning accuracy
 
 

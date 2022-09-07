@@ -9,6 +9,7 @@
 
 
 Non-functional requirements:
+
 1. Detect if one string playing or many strings - automatically switch between interfaces
 2. Very quick detection
 3. Different interfaces
@@ -25,19 +26,20 @@ Non-functional requirements:
 
 
 Functional requirements:
+
 1. 
-  - Do Spectrum analysis to identify Single mode or Polyphonic mode
-  - Different tunings (D/G)  for single mode
+    - Do Spectrum analysis to identify Single mode or Polyphonic mode
+    - Different tunings (D/G)  for single mode
 2. Real time low-latency processing (less than 0.5 s.)
 3. Classic tuner in simple mode (needle, horizontal), polyphonic in vertical position 
 4. Show 4 verticals for bass, and 6 verticals for guitar
 5. Use affordable materials
 6. 
-  - Small microchip 
-  - Fit 2 jack inputs in a smaller space + other hardware stuff
+    - Small microchip 
+    - Fit 2 jack inputs in a smaller space + other hardware stuff
 7. 
-  - Signal needs to be quite clean (so through jack, not microphone for example)
-  - Accuracy of 0.5 cent, although less accurate for polyphonic tuning
+    - Signal needs to be quite clean (so through jack, not microphone for example)
+    - Accuracy of 0.5 cent, although less accurate for polyphonic tuning
 8. Bonafide buffering
 9. Quarter inch jack for input/output and power supply input
 10. Footswitch

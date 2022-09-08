@@ -15,39 +15,39 @@ The following is a list of non-function and functional requirements the product 
 
 Non-functional requirements:
 
-1. Detect if one string playing or several strings
-2. Quick polyphonic pitch detection
-3. Different interfaces
-4. Multiple instruments
-5. Affordable
-6. Small size
-7. Precise accuracy
-8. Keep the strength of the signal 
+1. Shoud detect if one string playing or several strings
+2. Should have quick polyphonic pitch detection
+3. Should have different interfaces
+4. Should be usable with multiple instruments
+5. Should be affordable for consumer
+6. Should have a small size
+7. Should have precise accuracy
+8. Should keep the strength of the signal effectively
 9. Should be able to work with standard jack-cables for guitar/bass
-10. Work hands-free
-11. Visually and quickly be able to see tuning accuracy
+10. Should work hands-free
+11. User should be able to visually and quickly see tuning of instrument
 
 
 
 Functional requirements:
 
 1. 
-    - Do Spectrum analysis to identify Single mode or Polyphonic mode
-    - Different tunings (D/G)  for single mode
-2. Real time low-latency processing (less than 0.5 s.)
-3. Classic tuner in simple mode (needle, horizontal), polyphonic in vertical position 
-4. Show 4 verticals for bass, and 6 verticals for guitar
-5. Use affordable materials
+    - Should do spectral analysis to identify Single mode or Polyphonic mode
+    - Should have different tunings (D/G)  for single mode
+2. Should have real time low-latency processing (less than 0.5 s.)
+3. Should have classic tuner in simple mode (needle, horizontal), polyphonic in vertical position 
+4. Should show 4 verticals for bass, and 6 verticals for guitar
+5. Should use affordable materials
 6. 
-    - Small microchip 
-    - Fit 2 jack inputs in a smaller space + other hardware stuff
+    - The microchip should be small
+    - Should Ffit 2 jack inputs in a smaller space + other hardware stuff
 7. 
-    - Signal needs to be quite clean (so through jack, not microphone for example)
-    - Accuracy of 0.5 cent, although less accurate for polyphonic tuning
-8. Bonafide buffering
-9. Quarter inch jack for input/output and power supply input
-10. Footswitch
-11. Color display / green and red diodes
+    - Input signal needs to be quite clean (so through jack, not microphone for example)
+    - Should have high accuracy of 0.5 cent, although less accurate for polyphonic tuning
+8. Should have bonafide buffering
+9. Should have quarter inch jack for input/output and power supply input
+10. Should have footswitch
+11. Should have color display / green and red diodes
 
 # Tasks and milestones
 
@@ -74,7 +74,7 @@ Based on the requirements for the product a list of tasks and milestones was mad
 5. Algorithm ported to microchip (DSP-chip)
     - a. Test different microchips for lowest latency 
     - b. Optimize code if latency too high 
-    - c. Goal is for latency to be less than 0.5 s.
+        - Goal is for latency to be less than 0.5 s.
 6. User-interface designed (UX-designers) 
     - a. Make initial design with Figma or other similar platform
         - One-string mode design

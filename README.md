@@ -51,18 +51,21 @@ Functional requirements:
 
 # Tasks and milestones
 
-Based on the requirements for the product a list of tasks and milestones was made. 
+The following is a list of milestones and tasks based on the requirements.  
 
 1. Background research completed
     - a. Research materials 
-    - b. Research polyphonic pitch estimation
+    - b. Research polyphonic pitch detection
         - How advanced is it? 
         - How much processing power does it take?
-    - c. Research other similar product / software 
+    - c. Research other state of the art products / software
+        - What was their challanges? 
+        - How are does products designed? 
 2. Project plan completed  
     - a. Create tasks to be done
     - b. Create milestones / deadlines / time estimates on tasks 
     - c. Put these tasks into Jira 
+    - d. Assign tasks to different teams 
 3. Low-fi prototype tested
     - a. Make a design for the pedal and the interface
     - b. Test the design 
@@ -71,19 +74,21 @@ Based on the requirements for the product a list of tasks and milestones was mad
     - a. Develop polyphonic detection algorithm based on research
     - b. Test the effectiveness of the code / is it accurate enough
         - Build automatic tests for development
+    - c. Evaluate, debug
 5. Algorithm ported to microchip (DSP-chip)
     - a. Test different microchips for lowest latency 
-    - b. Optimize code if latency too high 
+    - b. Evaluate, debug and optimize code if latency is too high 
         - Goal is for latency to be less than 0.5 s.
 6. User-interface designed (UX-designers) 
-    - a. Make initial design with Figma or other similar platform
+    - a. Make initial design with Figma
         - One-string mode design
         - 6-string mode design
-    - b. Test on guitar players - are they able to understand the information
+    - b. Evaluate interface on guitar players 
+        - Are they able to understand the information? 
     - c. Create and implement final design
 7. Design of circuit board and enclousure done
     - a. Develop 3D model of product design based on low-fi prototype results
-    - b. Decide on materials for product (low-cost) and estimate production cost 
+    - b. Decide on materials for product (should be low-cost) and estimate production cost 
     - c. Design circuit -board
     - d. Make final design
     - e. Evaluate, debug 

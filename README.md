@@ -67,7 +67,7 @@ Based on the requirements for the product a list of tasks and milestones was mad
     - a. Make a design for the pedal and the interface
     - b. Test the design 
     - c. Focus group test
-4. Polyphonic pitch estimation algorithm implmented
+4. Polyphonic pitch estimation algorithm implemented
     - a. Develop polyphonic detection algorithm based on research
     - b. Test the effectiveness of the code / is it accurate enough
         - Build automatic tests for development

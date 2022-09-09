@@ -75,7 +75,7 @@ The following is a list of milestones and tasks based on the requirements.
         - Build automatic tests for development
     - c. Evaluate, debug
 5. Algorithm ported to microchip
-    - a. Test different microchips (e.g. bela) for lowest latency 
+    - a. Test different microchips (e.g. bela, teensy or a FPGA) for lowest latency 
     - b. Evaluate, debug and optimize code if latency is too high 
         - Goal is for latency to be less than 0.5 s.
 6. User-interface designed (UI/UX-designers) 

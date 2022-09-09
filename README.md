@@ -11,30 +11,29 @@ Link to product video presentation: https://www.youtube.com/watch?v=NUtpFd3377Y
 
 # Requirements
 
-The following is a list of non-function and functional requirements the product should meet. The requirement were made based on the functionality, size and price of he Polytuner.  
+The following is a list of non-function and functional requirements the product should meet. The requirement were made based on the functionality, size and price of the Polytuner.  
 
-Non-functional requirements:
+**Non-functional requirements:**
 
-1. Shoud detect if one string playing or several strings
+1. Shoud detect if one string or several strings are playing
 2. Should have quick polyphonic pitch detection
 3. Should have different interfaces
 4. Should be usable with multiple instruments
-5. Should be affordable for consumer
-6. Should have a small size
+5. Should be affordable for end-consumer
+6. Should have fit in small enclosure
 7. Should have precise accuracy
 8. Should keep the strength of the signal effectively
-9. Should be able to work with standard jack-cables for guitar/bass
+9. Should be able t o work with standard jack-cables for guitar/bass
 10. Should work hands-free
 11. User should be able to visually and quickly see tuning of instrument
 
 
-
-Functional requirements:
+**Functional requirements:**
 
 1. 
-    - Should do spectral analysis to identify Single mode or Polyphonic mode
-    - Should have different tunings (D/G)  for single mode
-2. Should have real time low-latency processing (less than 0.5 s.)
+    - Should do spectral analysis to identify single mode or Polyphonic mode
+    - Should have different tunings (D/G) for single  mode
+2. Should have real time low-latency sound processing (less than 0.5 s.)
 3. Should have classic tuner in simple mode (needle, horizontal), polyphonic in vertical position 
 4. Should show 4 verticals for bass, and 6 verticals for guitar
 5. Should use affordable materials
@@ -60,7 +59,7 @@ The following is a list of milestones and tasks based on the requirements.
         - How much processing power does it take?
     - c. Research other state of the art products / software
         - What was their challanges? 
-        - How are does products designed? 
+        - How are the products designed? 
 2. Project plan completed  
     - a. Create tasks to be done
     - b. Create milestones / deadlines / time estimates on tasks 
@@ -75,11 +74,11 @@ The following is a list of milestones and tasks based on the requirements.
     - b. Test the effectiveness of the code / is it accurate enough
         - Build automatic tests for development
     - c. Evaluate, debug
-5. Algorithm ported to microchip (DSP-chip)
+5. Algorithm ported to microchip
     - a. Test different microchips for lowest latency 
     - b. Evaluate, debug and optimize code if latency is too high 
         - Goal is for latency to be less than 0.5 s.
-6. User-interface designed (UX-designers) 
+6. User-interface designed (UI/UX-designers) 
     - a. Make initial design with Figma
         - One-string mode design
         - 6-string mode design
@@ -87,9 +86,9 @@ The following is a list of milestones and tasks based on the requirements.
         - Are they able to understand the information? 
     - c. Create and implement final design
 7. Design of circuit board and enclousure done
-    - a. Develop 3D model of product design based on low-fi prototype results
+    - a. Develop 3D model in AutoCAD of product based on low-fi prototype results 
     - b. Decide on materials for product (should be low-cost) and estimate production cost 
-    - c. Design circuit -board
+    - c. Design circuit board
     - d. Make final design
     - e. Evaluate, debug 
 8. Final product evaluation finished
@@ -99,10 +98,5 @@ The following is a list of milestones and tasks based on the requirements.
     - d. Give product to selected beta testers
     - e. Evaluate if all requirements have actually been met
     - f. Fix bugs that beta testers encounter
-
-
-
-
-
 
 # Project plan / Gantt Chart

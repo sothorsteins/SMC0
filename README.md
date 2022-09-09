@@ -18,7 +18,7 @@ The following is a list of non-function and functional requirements the product 
 
 **Non-functional requirements:**
 
-1. Shoud detect if one string or several strings are playing
+1. Should detect if one string or several strings are playing
 2. Should have quick polyphonic pitch detection
 3. Should have different interfaces
 4. Should be usable with multiple instruments

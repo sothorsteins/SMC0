@@ -88,7 +88,7 @@ The following is a list of milestones and tasks based on the requirements.
     - b. Evaluate interface on guitar players 
         - Are they able to understand the information? 
     - c. Create and implement final design
-7. Design of circuit board and enclousure done
+7. Design of circuit board and enclosure done
     - a. Develop 3D model in AutoCAD of product based on low-fi prototype results 
     - b. Decide on materials for product (should be low-cost) and estimate production cost 
     - c. Design circuit board

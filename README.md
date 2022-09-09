@@ -100,3 +100,5 @@ The following is a list of milestones and tasks based on the requirements.
     - f. Fix bugs that beta testers encounter
 
 # Project plan / Gantt Chart
+
+Based on the milestones a task a Gantt Chart containing was made to assess the amount of time needed for each task. 

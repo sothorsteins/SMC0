@@ -26,7 +26,7 @@ The following is a list of non-function and functional requirements the product 
 6. Should have fit in small enclosure
 7. Should have precise accuracy
 8. Should keep the strength of the signal effectively
-9. Should be able t o work with standard jack-cables for guitar/bass
+9. Should be able to work with standard jack-cables for guitar/bass
 10. Should work hands-free
 11. User should be able to visually and quickly see tuning of instrument
 
